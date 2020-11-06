@@ -1,23 +1,41 @@
-# 05 Third-Party APIs: Work Day Scheduler
 
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery that uses moment.js libray
+# covid 19
 
-the user nees to be able to important events to daily scheduler to manage his time effectiely
+# Table of Contents
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Test](#test)
+- [Credits](#credits)
+- [License](#license)
+- [Questions](#questions)
 
+## Description:
+![License](https://img.shields.io/badge/License=Apache,MIT-blue.svg) "License Badge")
 
+    helps people with covid
 
+## Installation:
+    install....
+## Usage:
+    to help people
+## Contributing:
+    myself
+## Test:
+    none
+## Credits:
+    me
+## License:
+    For more information about the License, click on the link below.
+
+- [License](https://opensource.org/licenses/Apache,MIT)
+
+## Questions:
+    For questions about the project you can go to the 
+    Github page at the following link:
+
+- [GitHub Profile](https://github.com/greendog69)
+
+For additional questions please reach out to this email address at: kellner.avi@gmail.com.
